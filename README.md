@@ -28,8 +28,6 @@ I enjoy coding, solving kata (by the way, that's always coding 😂) and explori
 
 ## 🧰 Some of the languages and tools I use:
 
-<br>
-
 ### Front-end:
 
 <div>
