@@ -78,7 +78,7 @@ I enjoy coding, solving kata (by the way, that's always coding 😂) and explori
 
 <br>
  
-### Graphic
+### Graphic design:
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
