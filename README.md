@@ -11,7 +11,7 @@
 Let me introduce myself, as you can guess I'm a developer 🤖 from Italy 🍝 and coding is my greatest passion 🚀🚀🚀;
 indeed ever since I was a teenager I have always been interested in technology, and so I started my coding journey!
 
-I am currently attending a Msc in "Artficial Intellingence & Data Science" @ ["Polytechnic University of Bari"](https://www.poliba.it/), and in my spare time 
+I am currently attending a MSc in "Artficial Intellingence & Data Science" @ ["Polytechnic University of Bari"](https://www.poliba.it/), and in my spare time 
 I enjoy coding, solving kata (by the way, that's always coding 😂) and exploring concepts related to web technologies, and machine learning.
 
 <br>
