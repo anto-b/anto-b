@@ -6,7 +6,7 @@
 
 <!-- Terminal GIF can be created here -> https://www.terminalgif.com -->
 <div align="center">
-    <img src="./presentation.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/presentation.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ## 🧰 Some of the languages and tools I use
