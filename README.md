@@ -5,7 +5,7 @@
 </a>
 
 <!-- Terminal GIF can be created here -> https://www.terminalgif.com -->
-<div>
+<div align="center">
     <img src="./presentation.gif" alt="About Me Terminal GIF"/>
 </div>
 
